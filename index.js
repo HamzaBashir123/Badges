@@ -20,6 +20,5 @@ firstH1.innerHTML = "second new"
     // \end{code}
     // \end{code}
        
-const a =12;
-const b =12;
-const c =12;
+
+
