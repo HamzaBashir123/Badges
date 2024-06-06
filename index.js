@@ -21,4 +21,4 @@ firstH1.innerHTML = "second new"
     // \end{code}
        
 const a =12;
-const b =12;
+
