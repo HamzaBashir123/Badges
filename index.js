@@ -18,12 +18,12 @@ firstH1.innerHTML = "second new";
 // \end{code}
 // \end{code}
 
-const a = "Asslam-o-Alaikum";
-let b = prompt('Please enter your name')
+// const a = "Asslam-o-Alaikum";
+// let b = prompt('Please enter your name')
 
-console.log(a + b);
-console.log(a + b);
-console.log(a + b);
-console.log(a + b);
-console.log(a + b);
-console.log(a + b);
+// console.log(a + b);
+// console.log(a + b);
+// console.log(a + b);
+// console.log(a + b);
+// console.log(a + b);
+// console.log(a + b);
