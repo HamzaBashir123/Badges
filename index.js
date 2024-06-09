@@ -11,5 +11,4 @@ firstH1.innerHTML = "second new";
 // const a = "Asslam-o-Alaikum";
 // let b = prompt('Please enter your name')
 
-// console.log(a + b);
 
