@@ -10,12 +10,7 @@ firstH1.innerHTML = "second new";
 // \end{code}
 // \end{code}
 // \end{code}
-// \end{code}
-// \end{code}
-// \end{code}
-// \end{code}
-// \end{code}
-// \end{code}
+
 // \end{code}
 
 // const a = "Asslam-o-Alaikum";
