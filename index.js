@@ -12,5 +12,6 @@ firstH1.innerHTML = "second new";
 // let b = prompt('Please enter your name')
 // let b = prompt('Please enter your name')
 // let b = prompt('Please enter your name')
+// let b = prompt('Please enter your name')
 
 
