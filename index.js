@@ -3,10 +3,19 @@ firstH1.innerHTML = "new";
 firstH1.innerHTML = "second new";
 
 // Checck the combiantion of 2 key
-// if (key1 == key2) {
+
 
 
 // \end{code}
+
+// If the key is the same, then the key is the same
+// \end{code}
+// \end{code}
+// \end{code}
+// \end{code}
+// \end{code}
+
+
 
 // const a = "Asslam-o-Alaikum";
 // let b = prompt('Please enter your name')
@@ -14,4 +23,13 @@ firstH1.innerHTML = "second new";
 // let b = prompt('Please enter your name')
 // let b = prompt('Please enter your name')
 
+
+
+
+// console.log(a + b);
+// console.log(a + b);
+// console.log(a + b);
+// console.log(a + b);
+// console.log(a + b);
+// console.log(a + b);
 
