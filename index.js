@@ -21,21 +21,7 @@ firstH1.innerHTML = "second new";
 // let b = prompt('Please enter your name')
 // let b = prompt('Please enter your name')
 // let b = prompt('Please enter your name')
-// let b = prompt('Please enter your name')
-// let b = prompt('Please enter your name')
-// let b = prompt('Please enter your name')
-// let b = prompt('Please enter your name')
-// let b = prompt('Please enter your name')
-// let b = prompt('Please enter your name')
-// let b = prompt('Please enter your name')
 
 
 
-
-// console.log(a + b);
-// console.log(a + b);
-// console.log(a + b);
-// console.log(a + b);
-// console.log(a + b);
-// console.log(a + b);
 
