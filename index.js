@@ -31,7 +31,5 @@ firstH1.innerHTML = "second new";
 // console.log(a + b);
 // console.log(a + b);
 // console.log(a + b);
-// console.log(a + b);
-// console.log(a + b);
 
 
