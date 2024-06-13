@@ -11,7 +11,7 @@ firstH1.innerHTML = "second new";
 // If the key is the same, then the key is the same
 // \end{code}
 // \end{code}
-// \end{code}
+
 
 
 
