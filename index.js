@@ -3,7 +3,8 @@ firstH1.innerHTML = "new";
 firstH1.innerHTML = "second new";
 
 
-// Helki
+// Hello
+// Hello
 
 
 
